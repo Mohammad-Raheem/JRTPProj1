@@ -10,17 +10,13 @@
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
+<<<<<<< HEAD
       <artifactId>junit</artifactId>
-<<<<<<< HEAD
       <version>3.8.8</version>
 =======
-<<<<<<< HEAD
+      <artifactId>junit</artifactId
       <version>3.8.8</version>
-=======
-      <version>3.8.2</version>
-      <scope>test</scope>
->>>>>>> 7c9549fc8b6c7d55bd566caa72329177f8bcc587
->>>>>>> 1404203dc3b125f911824d2c45af65554fe8d6ef
+>>>>>>> b9561688e1b14396a20a492322beeee2b29a76f2
     </dependency>
   </dependencies>
   <build>
