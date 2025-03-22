@@ -1,4 +1,7 @@
 public class ClassOne{
+	public void metd7(){
+		System.out.println("this 7 created::")
+	}
 	public void metd1(){
 		System.out.println("Hello World::");
 	}
