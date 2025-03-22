@@ -5,5 +5,8 @@ public class ClassOne{
 	public void metd3(){
 		System.out.println("this is method-3");
 	}
+	public void metd8(){
+		System.out.println("m8 task completed::");
+	}
 	
 }
